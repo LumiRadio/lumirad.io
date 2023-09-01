@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>lumiRadio</title>
+	<subtitle>TODO</subtitle>
+	
+	<link href="https://lumirad.io/lumirad.io/feed/en.feed.xml" rel="self"/>
+	<link href="https://lumirad.io"/>
+	<updated>2023-09-01T00:00:00Z</updated>
+	<id>TODO</id>
+	<author>
+		<name>lumiRadio Team</name>
+		<email>info@cozysoft.eu</email>
+	</author>
+	
+	<entry>
+		<title>Hello, world!</title>
+		<link href="https://lumirad.io/lumirad.io/posts/en/hello/"/>
+		<updated>2023-09-01T00:00:00Z</updated>
+		<id>https://lumirad.io/lumirad.io/posts/en/hello/</id>
+		<content type="html">&lt;p&gt;The One Piece is REAL!&lt;/p&gt;
+</content>
+	</entry>
+</feed>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>/lumirad.io/posts/en/hello/</loc>
+    <lastmod>2023-09-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>/lumirad.io/posts/</loc>
+    <lastmod>2023-09-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>/lumirad.io/</loc>
+    <lastmod>2023-09-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>.</loc>
+    <lastmod>2023-09-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>/lumirad.io/privacy/</loc>
+    <lastmod>2023-09-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>/lumirad.io/tags/</loc>
+    <lastmod>2023-09-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>/lumirad.io/tags/news/</loc>
+    <lastmod>2023-09-01</lastmod>
+  </url>
+</urlset>

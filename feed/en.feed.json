@@ -1,0 +1,20 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "lumiRadio",
+  "language": "en",
+  "home_page_url": "https://lumirad.io",
+  "feed_url": "https://lumirad.io/feed/en.feed.json",
+  "description": "The new home of the beloved Homestuck radio!",
+  "author": {
+    "name": "lumiRadio Team",
+    "url": "https://lumirad.io"
+  },
+  "items": [{
+      "id": "https://lumirad.io/lumirad.io/posts/en/hello/",
+      "url": "https://lumirad.io/lumirad.io/posts/en/hello/",
+      "title": "Hello, world!",
+      "content_html": "<p>The One Piece is REAL!</p>\n",
+      "date_published": "2023-09-01T00:00:00Z"
+    }
+  ]
+}
