@@ -1,0 +1,16 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-privacy
+---
+
+<div class="p-about">
+    <h1 class="p-about_title">Privacy Policy</h1>
+
+    <time class="c-content" datetime="{{ privacy.last_updated | htmlDateString }}">
+            Last updated: {{ page.date | en_readableDate }}
+    </time>
+
+    <div role="main" class="c-content">
+        {{ content | safe }}
+    </div>
+</div>
