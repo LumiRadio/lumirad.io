@@ -10,8 +10,8 @@
     "url": "https://lumirad.io"
   },
   "items": [{
-      "id": "https://lumirad.io/lumirad.io/posts/en/hello/",
-      "url": "https://lumirad.io/lumirad.io/posts/en/hello/",
+      "id": "https://lumirad.io/posts/en/hello/",
+      "url": "https://lumirad.io/posts/en/hello/",
       "title": "Hello, world!",
       "content_html": "<p>The One Piece is REAL!</p>\n",
       "date_published": "2023-09-01T00:00:00Z"

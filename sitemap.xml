@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/lumirad.io/posts/en/hello/</loc>
+    <loc>/posts/en/hello/</loc>
     <lastmod>2023-09-01</lastmod>
   </url>
   
   <url>
-    <loc>/lumirad.io/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2023-09-01</lastmod>
   </url>
   
   <url>
-    <loc>/lumirad.io/</loc>
+    <loc>/</loc>
     <lastmod>2023-09-01</lastmod>
   </url>
   
@@ -22,17 +22,17 @@
   </url>
   
   <url>
-    <loc>/lumirad.io/privacy/</loc>
+    <loc>/privacy/</loc>
     <lastmod>2023-09-01</lastmod>
   </url>
   
   <url>
-    <loc>/lumirad.io/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2023-09-01</lastmod>
   </url>
   
   <url>
-    <loc>/lumirad.io/tags/news/</loc>
+    <loc>/tags/news/</loc>
     <lastmod>2023-09-01</lastmod>
   </url>
 </urlset>
