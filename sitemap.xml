@@ -2,42 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/posts/en/hello/</loc>
-    <lastmod>2023-09-01</lastmod>
+    <loc>/posts/en/wheredoingitman/</loc>
+    <lastmod>2023-09-21</lastmod>
   </url>
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2023-09-01</lastmod>
+    <lastmod>2023-09-22</lastmod>
   </url>
   
   <url>
     <loc>.</loc>
-    <lastmod>2023-09-01</lastmod>
+    <lastmod>2023-09-22</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2023-09-01</lastmod>
+    <lastmod>2023-09-22</lastmod>
   </url>
   
   <url>
     <loc>.</loc>
-    <lastmod>2023-09-01</lastmod>
+    <lastmod>2023-09-22</lastmod>
   </url>
   
   <url>
     <loc>/privacy/</loc>
-    <lastmod>2023-09-01</lastmod>
+    <lastmod>2023-09-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>.</loc>
+    <lastmod>2023-09-22</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2023-09-01</lastmod>
+    <lastmod>2023-09-22</lastmod>
   </url>
   
   <url>
     <loc>/tags/news/</loc>
-    <lastmod>2023-09-01</lastmod>
+    <lastmod>2023-09-22</lastmod>
   </url>
 </urlset>
