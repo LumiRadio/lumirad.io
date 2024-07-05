@@ -1,0 +1,16 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-terms
+---
+
+<div class="p-about">
+    <h1 class="p-about_title">Terms of Service</h1>
+
+    <time class="c-content" datetime="{{ terms.last_updated | htmlDateString }}">
+            Last updated: {{ page.date | en_readableDate }}
+    </time>
+
+    <div role="main" class="c-content">
+        {{ content | safe }}
+    </div>
+</div>
